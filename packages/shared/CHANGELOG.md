@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.2](https://github.com/nur-sha/cra-typescript-monorepo-template/compare/@ui/shared@0.4.1...@ui/shared@0.4.2) (2022-11-24)
+
+
+### Bug Fixes
+
+* another fix for shared package ([ef357c5](https://github.com/nur-sha/cra-typescript-monorepo-template/commit/ef357c5e2c1093df9e02e719616c7049682ff5d5))
+
+
+
+
+
 ## [0.4.1](https://github.com/nur-sha/cra-typescript-monorepo-template/compare/@ui/shared@0.4.0...@ui/shared@0.4.1) (2022-11-24)
 
 
