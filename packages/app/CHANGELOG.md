@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/nur-sha/cra-typescript-monorepo-template/compare/@monorepo-template/app@0.1.6...@monorepo-template/app@0.2.0) (2022-11-24)
+
+
+### Features
+
+* another feature developed for this package ([8b33dfe](https://github.com/nur-sha/cra-typescript-monorepo-template/commit/8b33dfe2e380035a096d6749c26fa53d3489f3b8))
+
+
+
+
+
 ## [0.1.6](https://github.com/nur-sha/cra-typescript-monorepo-template/compare/@monorepo-template/app@0.1.5...@monorepo-template/app@0.1.6) (2022-11-24)
 
 **Note:** Version bump only for package @monorepo-template/app
