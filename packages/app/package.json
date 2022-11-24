@@ -1,7 +1,7 @@
 {
   "name": "@monorepo-template/app",
   "version": "0.1.6",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@types/jest": "^26.0.19",
     "@ui/shared": "^0.4.1",
