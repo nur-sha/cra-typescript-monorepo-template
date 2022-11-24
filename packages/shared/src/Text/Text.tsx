@@ -5,7 +5,7 @@ type Props = {
 };
 
 const Text: FunctionComponent<Props> = ({ children }) => {
-  console.log('test swe');
+  console.log('test swe 2');
   return <h1>{children}</h1>;
 };
 
